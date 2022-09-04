@@ -81,12 +81,13 @@ publishing:
     enableMermaid: true
     enablePrettyRefs: true
     enableKatex: true
-    assetsPrefix: /template.publish.github-action
+    assetsPrefix: /
     copyAssets: true
     siteHierarchies:
         - root
     enableSiteLastModified: true
     siteRootDir: docs
+
     siteUrl: 'https://laup2012.github.io/'
     enableFrontmatterTags: true
     enableHashesForFMTags: false
@@ -105,4 +106,4 @@ publishing:
         editBranch: main
         editViewMode: tree
     enablePrettyLinks: true
-    theme: dark
+    enableTaskNotes: true
