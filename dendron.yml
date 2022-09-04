@@ -81,7 +81,7 @@ publishing:
     enableMermaid: true
     enablePrettyRefs: true
     enableKatex: true
-    assetsPrefix: /
+    assetsPrefix: /laup2012.github.io
     copyAssets: true
     siteHierarchies:
         - root
