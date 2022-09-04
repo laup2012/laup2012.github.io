@@ -87,7 +87,7 @@ publishing:
         - root
     enableSiteLastModified: true
     siteRootDir: docs
-    siteUrl: 'https://dendronhq.github.io'
+    siteUrl: 'https://laup2012.github.io/'
     enableFrontmatterTags: true
     enableHashesForFMTags: false
     enableRandomlyColoredTags: true
