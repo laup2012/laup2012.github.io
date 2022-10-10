@@ -1,0 +1,352 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": "vault"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1665398324566,
+      "created": 1665398324566,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "wn8PE1RhG0znK1alrGFYv": {
+      "id": "wn8PE1RhG0znK1alrGFYv",
+      "title": "",
+      "desc": "",
+      "updated": 1662292198004,
+      "created": 1631901573363,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "f0662b4f210c496f3e232d9f9e6cdeeb",
+      "links": [],
+      "anchors": {
+        "welcome-to-lauras-wiki": {
+          "type": "header",
+          "text": "Welcome to Laura's Wiki",
+          "value": "welcome-to-lauras-wiki",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "mhgidlgfzdpnbrhptqwqqrz"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "mhgidlgfzdpnbrhptqwqqrz": {
+      "fname": "kitchen",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1665398324451,
+      "created": 1665398324451,
+      "id": "mhgidlgfzdpnbrhptqwqqrz",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "lq47tlus6bh4aadzo76cqwh",
+        "r2d0k49vttrinjsto9dh93q"
+      ],
+      "parent": "wn8PE1RhG0znK1alrGFYv",
+      "data": {},
+      "title": "Kitchen"
+    },
+    "r2d0k49vttrinjsto9dh93q": {
+      "fname": "kitchen.food",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1665398324453,
+      "created": 1665398324453,
+      "id": "r2d0k49vttrinjsto9dh93q",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "snhe4g15yjw156f4kh8ofd4",
+        "yc174vtmn9vlj3v46v65iaf",
+        "tvz6zbsqe6ywp9a7t20hnyp"
+      ],
+      "parent": "mhgidlgfzdpnbrhptqwqqrz",
+      "data": {},
+      "title": "Food"
+    },
+    "tvz6zbsqe6ywp9a7t20hnyp": {
+      "id": "tvz6zbsqe6ywp9a7t20hnyp",
+      "title": "Paleo Waffle",
+      "desc": "",
+      "updated": 1665398231448,
+      "created": 1665397962239,
+      "custom": {},
+      "fname": "kitchen.food.waffle",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b25584a68ba773e095340b1874a7ae3d",
+      "links": [],
+      "anchors": {
+        "ingredients-2-waffles": {
+          "type": "header",
+          "text": "Ingredients (2 waffles):",
+          "value": "ingredients-2-waffles",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "how-to": {
+          "type": "header",
+          "text": "How to:",
+          "value": "how-to",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "r2d0k49vttrinjsto9dh93q",
+      "data": {}
+    },
+    "yc174vtmn9vlj3v46v65iaf": {
+      "id": "yc174vtmn9vlj3v46v65iaf",
+      "title": "Pizza",
+      "desc": "",
+      "updated": 1662297703341,
+      "created": 1662297533122,
+      "custom": {},
+      "fname": "kitchen.food.pizza",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "cc96ac5e2f791e750f2bbfe805ddc8a3",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "r2d0k49vttrinjsto9dh93q",
+      "data": {}
+    },
+    "snhe4g15yjw156f4kh8ofd4": {
+      "id": "snhe4g15yjw156f4kh8ofd4",
+      "title": "Kimchi",
+      "desc": "",
+      "updated": 1665144911422,
+      "created": 1665143806530,
+      "custom": {},
+      "fname": "kitchen.food.kimchi",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "fb46c8cb48cccc6748ae0ac42342af4f",
+      "links": [],
+      "anchors": {
+        "ingredients": {
+          "type": "header",
+          "text": "Ingredients:",
+          "value": "ingredients",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "how-to": {
+          "type": "header",
+          "text": "How to:",
+          "value": "how-to",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "r2d0k49vttrinjsto9dh93q",
+      "data": {}
+    },
+    "lq47tlus6bh4aadzo76cqwh": {
+      "id": "lq47tlus6bh4aadzo76cqwh",
+      "title": "Drink",
+      "desc": "",
+      "updated": 1662289013925,
+      "created": 1662289013925,
+      "custom": {},
+      "fname": "kitchen.drink",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "9e51f5bfc1aa237d155fe4fc979922d8",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "4mcfhquauwe1jrn536d7yc7",
+        "lnzt0l27681hdh070hsej0x"
+      ],
+      "parent": "mhgidlgfzdpnbrhptqwqqrz",
+      "data": {}
+    },
+    "lnzt0l27681hdh070hsej0x": {
+      "id": "lnzt0l27681hdh070hsej0x",
+      "title": "Pumpkin Spice \"Spicy\" Latte",
+      "desc": "",
+      "updated": 1665143598523,
+      "created": 1665143214261,
+      "custom": {},
+      "fname": "kitchen.drink.spicylatte",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "188dade770b9bb510c58110c80235df9",
+      "links": [],
+      "anchors": {
+        "ingredients": {
+          "type": "header",
+          "text": "Ingredients:",
+          "value": "ingredients",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "how-to": {
+          "type": "header",
+          "text": "How to:",
+          "value": "how-to",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "lq47tlus6bh4aadzo76cqwh",
+      "data": {}
+    },
+    "4mcfhquauwe1jrn536d7yc7": {
+      "id": "4mcfhquauwe1jrn536d7yc7",
+      "title": "Kombucha",
+      "desc": "",
+      "updated": 1662289128736,
+      "created": 1662289055352,
+      "custom": {},
+      "fname": "kitchen.drink.kombucha",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "32fb587f1b66ae38cf45cfae7c9bfa20",
+      "links": [],
+      "anchors": {
+        "resources": {
+          "type": "header",
+          "text": "Resources",
+          "value": "resources",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "lq47tlus6bh4aadzo76cqwh",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "wn8PE1RhG0znK1alrGFYv",
+      "title": "",
+      "desc": "",
+      "updated": 1662292198004,
+      "created": 1631901573363,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "f0662b4f210c496f3e232d9f9e6cdeeb",
+      "links": [],
+      "anchors": {
+        "welcome-to-lauras-wiki": {
+          "type": "header",
+          "text": "Welcome to Laura's Wiki",
+          "value": "welcome-to-lauras-wiki",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "mhgidlgfzdpnbrhptqwqqrz"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "# Welcome to Laura's Wiki\n\nThis is the root of my Wiki. :) You can navigate through the tree or use the search bar. \n\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "wn8PE1RhG0znK1alrGFYv",
+    "title": "",
+    "desc": "",
+    "updated": 1662292198004,
+    "created": 1631901573363,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": "vault"
+    },
+    "contentHash": "f0662b4f210c496f3e232d9f9e6cdeeb",
+    "links": [],
+    "anchors": {
+      "welcome-to-lauras-wiki": {
+        "type": "header",
+        "text": "Welcome to Laura's Wiki",
+        "value": "welcome-to-lauras-wiki",
+        "line": 7,
+        "column": 0,
+        "depth": 1
+      }
+    },
+    "children": [
+      "mhgidlgfzdpnbrhptqwqqrz"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "# Welcome to Laura's Wiki\n\nThis is the root of my Wiki. :) You can navigate through the tree or use the search bar. \n\n"
+  },
+  "vaults": [
+    {
+      "fsPath": "vault"
+    }
+  ]
+}

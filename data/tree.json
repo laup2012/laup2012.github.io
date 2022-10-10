@@ -1,0 +1,101 @@
+{
+  "roots": [
+    {
+      "key": "wn8PE1RhG0znK1alrGFYv",
+      "title": "",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "navExclude": false,
+      "children": [
+        {
+          "key": "mhgidlgfzdpnbrhptqwqqrz",
+          "title": "Kitchen",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "lq47tlus6bh4aadzo76cqwh",
+              "title": "Drink",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "4mcfhquauwe1jrn536d7yc7",
+                  "title": "Kombucha",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "lnzt0l27681hdh070hsej0x",
+                  "title": "Pumpkin Spice \"Spicy\" Latte",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "r2d0k49vttrinjsto9dh93q",
+              "title": "Food",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "snhe4g15yjw156f4kh8ofd4",
+                  "title": "Kimchi",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "tvz6zbsqe6ywp9a7t20hnyp",
+                  "title": "Paleo Waffle",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "yc174vtmn9vlj3v46v65iaf",
+                  "title": "Pizza",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "wn8PE1RhG0znK1alrGFYv": null,
+    "mhgidlgfzdpnbrhptqwqqrz": "wn8PE1RhG0znK1alrGFYv",
+    "r2d0k49vttrinjsto9dh93q": "mhgidlgfzdpnbrhptqwqqrz",
+    "tvz6zbsqe6ywp9a7t20hnyp": "r2d0k49vttrinjsto9dh93q",
+    "yc174vtmn9vlj3v46v65iaf": "r2d0k49vttrinjsto9dh93q",
+    "snhe4g15yjw156f4kh8ofd4": "r2d0k49vttrinjsto9dh93q",
+    "lq47tlus6bh4aadzo76cqwh": "mhgidlgfzdpnbrhptqwqqrz",
+    "lnzt0l27681hdh070hsej0x": "lq47tlus6bh4aadzo76cqwh",
+    "4mcfhquauwe1jrn536d7yc7": "lq47tlus6bh4aadzo76cqwh"
+  }
+}
