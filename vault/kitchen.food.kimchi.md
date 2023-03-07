@@ -2,7 +2,7 @@
 id: snhe4g15yjw156f4kh8ofd4
 title: Kimchi
 desc: ''
-updated: 1665144911422
+updated: 1678214767288
 created: 1665143806530
 ---
 
@@ -32,3 +32,6 @@ Enough for one cabbage kimchi and half radish kimchi
 * for cabbage kimchi: WEARING GLOVES, put the paste on every leaves, wrap them up with the vegetables inside and put them in a container.
 * for the radish kimchi: cut the rest of the radish into cubes, put them in a container, add the paste and mix it well.
 * cover it (with a weight on top) and leave it outside the fridge for 36 hours, then move it to the fridge for six days.
+
+## Shortcut:
+cut the cabbage into small pieces, salt them and wait for the liquid to drain while cutting the other vegetables. Rinse well and use as is.
